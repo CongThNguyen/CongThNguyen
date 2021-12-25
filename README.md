@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CongThNguyen
+- 👋 Hi, I’m *Cong Nguyen*
 - 👀 I’m interested in machine learning and its applications to real world projects. 
 - 💞️ I’m looking for data science and data analyst positions. 
 - 📫 How to reach me: https://www.linkedin.com/in/congtnguyen/ ( or email: cong.ngnt@gmail.com )
