@@ -7,3 +7,5 @@
 CongThNguyen/CongThNguyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Below you may find some Python projects that I have done during the course of the Master's degree at the University of Edinburgh. 
