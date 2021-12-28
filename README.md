@@ -1,4 +1,4 @@
-- 👋 Hi, I’m *Cong Nguyen*. I am a recent graduate at the *University of Edinburgh*.
+- 👋 Hi, I’m *Cong Nguyen*. I am a recent graduate (with an MSc in Operational Research) at the *University of Edinburgh*.
 - 👀 I’m interested in machine learning and its applications to real world projects. 
 - 💞️ I’m looking for data science and data analyst positions. 
 - 📫 How to reach me: https://www.linkedin.com/in/congtnguyen/ ( or email: cong.ngnt@gmail.com )
