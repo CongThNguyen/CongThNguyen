@@ -8,4 +8,4 @@ CongThNguyen/CongThNguyen is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-Below you may find both personal and Master's degree related projects that I have done in spare time and in my study.
+Below you may find both personal and Master's degree related projects that I have done in spare time or during my study.
