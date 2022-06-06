@@ -1,5 +1,5 @@
 - 👋 Welcome, my name is *Cong Nguyen*. I am a recent graduate (with an MSc in Operational Research) at the *University of Edinburgh*.
-- 👀 I’m interested in machine learning and its applications to real world projects. 
+- 👀 I’m interested in the application of machine learning in healthcare, transportation, tech and sustainability. I'm also capable of formullating business problems in a mathematical ways and solve it using linear programming. 
 - 💞️ I’m passionate about using data to help businesses make better decisions. I'm currently looking for data science and data analyst positions. 
 - 📫 How to reach me: https://www.linkedin.com/in/congtnguyen/ ( or email: cong.ngnt@gmail.com )
 
