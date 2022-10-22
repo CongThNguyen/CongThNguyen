@@ -6,6 +6,6 @@
 
 I am actively looking for a technical position that utilizes data science, research and teamwork skills.
 
-- 📫 If you have any questions, please feel free to reach me at: https://www.linkedin.com/in/congtnguyen/ ( or email: cong.ngnt@gmail.com )
+- 📫 If you have any questions, please feel free to reach me at: https://www.linkedin.com/in/congtnguyen/ (or email: cong.ngnt@gmail.com)
 
 Below you may find both personal and Master's degree-related projects that I have done in my spare time or during my study.
