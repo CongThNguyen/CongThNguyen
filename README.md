@@ -1,13 +1,11 @@
-- 👋 Welcome, my name is *Cong Nguyen*. I am a graduate (with an MSc in Operational Research) at the *University of Edinburgh*.
-- 👀 I’m interested in the application of data science in tech, market research, consulting, finance, healthcare and sustainability. I'm also capable of formulating business problems in a mathematical ways and solve it using wide range of approaches such as operational research. 
+- 👋  Welcome. My name is Cong Nguyen. I am a Data Analyst with an MSc in Operational Research.
+
+- 👀 I’m interested in the application of data science in tech, market research, consulting, finance, healthcare and sustainability. I have experience applying data science and data analysis techniques to solving real business challenges using tools such as AWS Redshift, dbt, PostgresSQL and Python. I can also formulate business problems in mathematical ways and solve them using operational research.
+
 - 💞️ Passionate about using data and technologies to help businesses improve their products and make better decisions.
 
-- I am actively looking for a technical position that utilzes skills in: data science, research and teamwork skills. 
-- 📫 How to reach me: https://www.linkedin.com/in/congtnguyen/ ( or email: cong.ngnt@gmail.com )
+I am actively looking for a technical position that utilizes data science, research and teamwork skills.
 
-<!---
-CongThNguyen/CongThNguyen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 Feel free to reach me at: https://www.linkedin.com/in/congtnguyen/ ( or email: cong.ngnt@gmail.com )
 
-Below you may find both personal and Master's degree related projects that I have done in spare time or during my study.
+Below you may find both personal and Master's degree-related projects that I have done in my spare time or during my study.
