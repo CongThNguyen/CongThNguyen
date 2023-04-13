@@ -4,7 +4,7 @@
 
 - 💞️ Passionate about using data and technologies to help businesses improve their products and make better decisions.
 
-I am actively looking for a technical position that utilizes data science, research and teamwork skills.
+I am a Data Analyst working for Mediabrands.
 
 - 📫 If you have any questions, please feel free to reach me at: https://www.linkedin.com/in/congtnguyen/ (or email: cong.ngnt@gmail.com)
 
