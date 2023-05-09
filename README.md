@@ -8,4 +8,4 @@ I am a Data Analyst working for Mediabrands.
 
 - 📫 If you have any questions, please feel free to reach me at: https://www.linkedin.com/in/congtnguyen/ (or email: cong.ngnt@gmail.com)
 
-Below you may find both personal and Master's degree-related projects that I have done in my spare time or during my study.
+Below you may find both personal and Master's degree-related projects that I have done in my spare time or during my study. Feel free to reach out to me if you find anything pique your interest. 
